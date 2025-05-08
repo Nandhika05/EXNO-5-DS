@@ -261,4 +261,5 @@ fig,ax=plt.subplots() ax.boxplot(data) ax.set_xlabel('Data') ax.set_ylabel('Valu
 ![image](https://github.com/user-attachments/assets/477e9e0c-3f0d-46a3-be32-9ea37f8bf71a)
 
 # Result:
- Include your result here
+
+Thus, The implementation of data visualization using matplotlib has been successfully verified
